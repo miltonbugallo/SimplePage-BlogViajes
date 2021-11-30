@@ -1,6 +1,6 @@
 # SimplePage-HTML-CSS
 Pagina Simple para Blog de Viaje hecha con HTML &amp; CSS
 
-<img src="/SimplePage-HTML-CSS/Blog.png">
+<img src="https://github.com/miltonbugallo/SimplePage-HTML-CSS/blob/main/Blog.png">
 
-<img src="/SimplePage-HTML-CSS/Blog2.png">
+<img src="https://github.com/miltonbugallo/SimplePage-HTML-CSS/blob/main/Blog2.png">
